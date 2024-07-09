@@ -30,5 +30,3 @@ function readTime(blogId, postId) {
       })
       .catch(err => console.log(err))
 }
-
-
